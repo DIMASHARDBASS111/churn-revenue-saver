@@ -1,10 +1,11 @@
-# Environment folders
+# Environment
 env/
 .venv/
 .conda/
 churn-env/
 __pycache__/
 .ipynb_checkpoints/
+.env
 
 # Compiled files
 *.pyc
@@ -14,7 +15,7 @@ __pycache__/
 data/raw/*
 !data/raw/.gitkeep
 
-# Jupyter/VSCode cache
+# Jupyter/VSCode
 *.log
 .vscode/
 .DS_Store
