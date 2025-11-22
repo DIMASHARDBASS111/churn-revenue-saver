@@ -162,3 +162,9 @@ PGPASSWORD=strong_password
 - Финальная таблица успешно загружена в PostgreSQL
 
 - Построен интерактивный Дашборд
+
+### Dashboard Preview
+
+Небольшой фрагмент итогового дашборда:
+
+![Dashboard Preview](dashboards/dashboard_preview.png)
